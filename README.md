@@ -5,4 +5,4 @@ Name : Firdaus Zamroni Fauzi  / JCDS – 0212 – On Campus Surabaya
 - If you are interested to read more detaily. You are able to read on my jupyter notebook. 
 - If you want to use the result of my model directly without read the my jupyter notebook file, you can download file SAV type.
 
-Link of Explanation : https://intip.in/daeguapartment 
+Link of Explanation Video : https://intip.in/daeguapartment 
